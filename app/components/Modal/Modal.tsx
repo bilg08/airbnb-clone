@@ -97,6 +97,7 @@ function Modal({
 
                             />
                         </div>
+                        {footer}
                     </div>
                 </div>
             </div>
